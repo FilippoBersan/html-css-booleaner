@@ -1,0 +1,15 @@
+.header{
+    background-color:#4ea0ff;
+    height: 150px;
+    background-image: url(img/pattern.png);
+    background-size: contain;
+}
+
+
+    
+.logoheader{
+    width: 200px;
+    transform: translate(0px, 90px)
+}
+
+
